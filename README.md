@@ -17,9 +17,9 @@ AI Influencers is an innovative tool that lets users design ultra-realistic, hum
 
 * **Launch Date:** 2024-Nov-19
 
-* **Front-End Price:** 7 (One-time price)
+* **Front-End Price:** $17 (One-time price)
 
-* **Available Coupon:** Apply "INFAI5" For  OFF!
+* **Available Coupon:** Apply "INFAI5" For $5 OFF!
 
 * **Official Website:** [Click Here To Visit Salespage](https://bit.ly/3CZwYNe)
 
