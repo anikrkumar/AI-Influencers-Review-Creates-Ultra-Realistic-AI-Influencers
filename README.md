@@ -9,7 +9,7 @@ AI Influencers is an innovative tool that lets users design ultra-realistic, hum
 
 ## AI Influencers Overview?
 
-![overview](https://github.com/user-attachments/assets/d24eb3bb-67a7-4818-801e-5dcbcab714f9)
+![overview](https://github.com/user-attachments/assets/d24eb3bb-67a7-4818-801e-5dcbcab714f9) 
 
 * **Creator:** Akshat Gupta
 
